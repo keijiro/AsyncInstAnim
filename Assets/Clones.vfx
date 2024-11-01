@@ -99,9 +99,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -861
+    x: -942
     y: 210
-    width: 1576
+    width: 1657
     height: 1774
 --- !u!114 &114350483966674984
 MonoBehaviour:
@@ -1055,7 +1055,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Position, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"position":{"x":0.44999998807907107,"y":0.0,"z":0.0}}'
+      m_SerializableObject: '{"position":{"x":0.0,"y":0.0,"z":0.0}}'
     m_Space: 0
   m_Property:
     name: Origin
@@ -3476,7 +3476,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":1.0,"y":0.43933525681495669,"z":0.07075470685958862}'
+      m_SerializableObject: '{"x":1.0,"y":0.39662444591522219,"z":0.0}'
     m_Space: -1
   m_Property:
     name: _Color
