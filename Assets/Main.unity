@@ -576,7 +576,7 @@ VisualEffect:
       m_Array: []
     m_Bool:
       m_Array:
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Async
         m_Overridden: 1
 --- !u!4 &1405731856
@@ -693,7 +693,7 @@ VisualEffect:
       m_Array: []
     m_Bool:
       m_Array:
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Async
         m_Overridden: 1
 --- !u!4 &1791087881
